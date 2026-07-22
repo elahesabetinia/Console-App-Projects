@@ -72,13 +72,3 @@
 </div>
 
 ---
-
-## 🧱 Structure
-
-```bash
-📁 ProjectName/
-│
-├── 📄 Program.cs          # Main entry point
-├── 📄 ClassName.cs        # Supporting classes (if any)
-├── 📄 README.md           # Project-specific notes (optional)
-└── 📄 .csproj             # Project file (if needed)
